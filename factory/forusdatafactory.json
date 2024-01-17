@@ -1,0 +1,9 @@
+{
+	"name": "forusdatafactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31971ef5-a3aa-44df-8d03-9caf4c521fd3",
+		"tenantId": "5226be93-da76-4876-aeda-5179ce6f197e"
+	}
+}
